@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/New_Portfolio_Ghibli/static/css/main.e6c13ad2.css",
+    "main.js": "/New_Portfolio_Ghibli/static/js/main.ccee709a.js",
+    "static/js/787.11c2e41e.chunk.js": "/New_Portfolio_Ghibli/static/js/787.11c2e41e.chunk.js",
+    "index.html": "/New_Portfolio_Ghibli/index.html",
+    "main.e6c13ad2.css.map": "/New_Portfolio_Ghibli/static/css/main.e6c13ad2.css.map",
+    "main.ccee709a.js.map": "/New_Portfolio_Ghibli/static/js/main.ccee709a.js.map",
+    "787.11c2e41e.chunk.js.map": "/New_Portfolio_Ghibli/static/js/787.11c2e41e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ccee709a.js"
+  ]
+}
